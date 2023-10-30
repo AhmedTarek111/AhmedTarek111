@@ -12,12 +12,13 @@
 
  -->
 
-<a> href="https://komarev.com/ghpvc/?username=AhmedTarek111">
-    <img align="right" src="https://komarev.com/ghpvc/?username=AhmedTarek111&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-  </a>
+
+<a href="https://komarev.com/ghpvc/?username=alsiam">
+  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
 
-
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
 <h3 align="center">
@@ -121,14 +122,17 @@
   
   <p align="center">
     <a href="https://github.com/AhmedTarek111">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedTarek111&theme=radical" alt="Ahmed Tarek's GitHub Contribution"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedTarek111&theme=radical" alt="Al Siam's GitHub Contribution"/>
     </a>
   </p>
   
   <a> 
-      <a href="https://github.com/AhmedTarek111"><img alt="Ahmed Tarek's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AhmedTarek111&show_icons=true&count_private=true&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866" height="192px" width="49.5%"/></a>
-    <a href="https://github.com/AhmedTarek111"><img alt="Ahmed Tarek's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AhmedTarek111&langs_count=8&layout=compact&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866" height="192px" width="49.5%"/></a>
+      <a href="https://github.com/AhmedTarek111"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AhmedTarek111&show_icons=true&count_private=true&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/AhmedTarek111"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AhmedTarek111&langs_count=8&layout=compact&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866" height="192px" width="49.5%"/></a>
     <br/>
   </a>
+  
+  
+  ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedTarek111&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=199260&line=199260&point=199260&area_color=FFFFFF&title_color=FFFFFF&area=true)
   
 
