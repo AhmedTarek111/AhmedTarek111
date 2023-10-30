@@ -126,11 +126,12 @@
   </p>
   
   <a> 
-      <a href="https://github.com/AhmedTarek111"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AhmedTarek111&show_icons=true&count_private=true&theme=react&border_color=199260&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-    <a href="https://github.com/AhmedTarek111"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AhmedTarek111&langs_count=8&layout=compact&theme=react&border_color=199260&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+      <a href="https://github.com/AhmedTarek111"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AhmedTarek111&show_icons=true&count_private=true&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/AhmedTarek111"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AhmedTarek111&langs_count=8&layout=compact&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866" height="192px" width="49.5%"/></a>
     <br/>
   </a>
   
   
   ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedTarek111&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=199260&line=199260&point=199260&area_color=FFFFFF&title_color=FFFFFF&area=true)
   
+
